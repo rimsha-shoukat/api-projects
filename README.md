@@ -7,13 +7,15 @@ These projects focus mainly on API and data. They are perfect for practicing and
 
 ## 🚀 Projects  
 
-### 📌 Weather App  
-A simple weather app that shows real-time weather data using an API.
+### 📌 Quote Generator 
+A random quote generator that fetches and displays quotes from an API.
+Live demo : https://rimsha-shoukat.github.io/api-projects/quote-generator/
 
 ---
 
-### 📌 Quote Generator 
-A random quote generator that fetches and displays quotes from an API.     
+### 📌 Weather App  
+A simple weather app that shows real-time weather data using an API.
+Live demo : https://rimsha-shoukat.github.io/api-projects/weather-app/
 
 ---
 
