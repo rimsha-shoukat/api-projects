@@ -22,6 +22,6 @@ Live demo : https://rimsha-shoukat.github.io/api-projects/weather-app/
 ---
 
 ## ⚡ How to Run Locally
-1. Clone this repository  
+### Clone this repository  
    ```bash
-   git clone https://github.com/rimsha-shoukat/api-projects.git
+   https://github.com/rimsha-shoukat/api-projects.git
